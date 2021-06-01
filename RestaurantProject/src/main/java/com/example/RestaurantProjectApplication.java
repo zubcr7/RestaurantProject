@@ -15,8 +15,7 @@ public class RestaurantProjectApplication extends SpringBootServletInitializer{
 	public static void main(String[] args) {
 		SpringApplication.run(RestaurantProjectApplication.class, args);
 	}
-	
-	[5:12 PM] Vaddadi Pranathi
+
     
 
 
