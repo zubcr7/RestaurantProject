@@ -21,6 +21,8 @@
 
 </parent>
 
+<packaging>war</packaging>
+	
 <groupId>com.example</groupId>
 
 <artifactId>employee-springboot</artifactId>
@@ -129,6 +131,7 @@
 
 
 <build>
+	<finalName>hcl</finalName>
 
 
 <plugins>
